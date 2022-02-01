@@ -1,4 +1,4 @@
-# Enterprise-Management-System
+# Enterprise Management System
 Design, implementation and validation of a database where we add related information about enterprise management using PostgreSQL.
 
 The EMS database is structured in 4 modules. The first one is about sales managment, the second about product manufacturing management, the third about shipping logistics mangement and the last is about human resources management. There's an extra requirement that is a cross-process analyses between de 4 modules.
